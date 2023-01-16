@@ -1,0 +1,19 @@
+body {
+    background: #dbd9d9;
+}
+
+.navbar {
+    background-color: white;
+    font-size: 13px;
+    height: 55px;
+    border-bottom: 0.5px solid #cacaca;
+}  
+
+
+.a-href {
+    color: #6d6c6c;
+    text-decoration: none;
+}
+
+
+
